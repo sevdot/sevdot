@@ -2,4 +2,4 @@
 
 ### 您好👋 
 
-我是 SevDot，一名开发工程师，通常使用 Laravel 和 Vue 做 Web 开发，偶尔也写写。
+我是 SevDot，一名开发工程师，通常使用 Laravel 和 Vue 做 Web 开发，偶尔也博客文章。
