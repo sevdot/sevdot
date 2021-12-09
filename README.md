@@ -3,3 +3,5 @@
 ### 您好👋 
 
 我是 SevDot，一名开发工程师，通常使用 Laravel 和 Vue 做 Web 开发，偶尔也博客文章。
+
+这里还是我 Hashnode 写博客的备份，[点击查看](https://sevdot.hashnode.dev/)。
